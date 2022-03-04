@@ -1,6 +1,6 @@
-# pull request templates
+# Pull request templates
 
-> This repository contains some examples of pull request templates for Softaliza's BIRDBOX project
+This repository contains some examples of pull request templates for Softaliza's BIRDBOX project
 
 <details>
   <summary>Template 01</summary>
@@ -121,3 +121,5 @@
 |Cillum sit veniam|![image](https://user-images.githubusercontent.com/64330605/156618106-8cd7f464-f8f5-4a2a-ba53-9e8b11b8900b.png)|![image](https://user-images.githubusercontent.com/64330605/156617958-ee3c3c88-add2-4f65-b973-57e78cdec5f2.png)|
 
 </details>
+
+![under_construction](https://user-images.githubusercontent.com/64330605/145211897-45524b04-26af-448d-8b80-7802f90731d3.gif)
