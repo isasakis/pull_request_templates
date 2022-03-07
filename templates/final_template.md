@@ -1,6 +1,6 @@
 # Descrição:
 
-⚠️ Atenção: Cole a descrição da task no gira aqui! ⚠️
+⚠️ Atenção: Cole a descrição da task no jira aqui! ⚠️
 
 ---
 
