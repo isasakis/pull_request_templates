@@ -1,6 +1,9 @@
 # Pull request templates
 
-This repository contains some examples of pull request templates for Softaliza's BIRDBOX project
+This repository contains some examples of pull request templates for Softaliza's BIRDBOX project.
+To add the template to the repository, create a `pull_request_template.md` file in the `.github` directory.
+
+> Click [here](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more!
 
 <details>
   <summary>Template 01</summary>
@@ -181,6 +184,25 @@ This repository contains some examples of pull request templates for Softaliza's
   |Qui magna anim|![image](https://user-images.githubusercontent.com/64330605/156480354-7695ed91-7b5d-40ed-8e99-7b150a2da1b0.png)|![image](https://user-images.githubusercontent.com/64330605/156481028-d1c6f319-ccd2-4a33-9623-346d349c2c9d.png)|
   |Cillum sit veniam|![image](https://user-images.githubusercontent.com/64330605/156618106-8cd7f464-f8f5-4a2a-ba53-9e8b11b8900b.png)|![image](https://user-images.githubusercontent.com/64330605/156617958-ee3c3c88-add2-4f65-b973-57e78cdec5f2.png)|
 
+
+</details>
+
+<details>
+  <summary>Final Template</summary>
+
+  > Check the raw template [here](https://github.com/victordantasdev/pull_request_templates/blob/main/templates/final_template.md)
+
+  # Descrição:
+
+  ⚠️ Atenção: Cole a descrição da task no gira aqui! ⚠️
+
+  ---
+
+  ### **Telas:**
+
+  |Requisito|Antes|Depois|
+  |---|---|---|
+  |Pariatur enim proident|![image](https://via.placeholder.com/150)|![image](https://via.placeholder.com/150)|
 
 </details>
 
