@@ -28,6 +28,7 @@
 
 > Tooltip: Para cara passo a ser seguido, liste-o numericamente dessa maneira: `1. Ea commodo reprehenderit`  
 
+⚠️ Atenção: Cole a descrição da task no jira aqui! ⚠️
 
 ---
 
